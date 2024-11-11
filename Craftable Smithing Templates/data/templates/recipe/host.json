@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " #B",
+      " C#"
+    ],
+    "key": {
+      "#": "minecraft:dripstone_block",
+      "B": "minecraft:light_blue_dye",
+      "C": "minecraft:cobbled_deepslate"
+    },
+    "result": {
+      "id": "minecraft:host_armor_trim_smithing_template",
+      "count": 1
+    },
+    "show_notification": false
+  }
+  

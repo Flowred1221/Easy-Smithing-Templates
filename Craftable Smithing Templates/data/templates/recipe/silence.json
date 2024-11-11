@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " #B",
+      " C#"
+    ],
+    "key": {
+      "#": "minecraft:cobbled_deepslate",
+      "B": "minecraft:light_blue_dye",
+      "C": "minecraft:black_dye"
+    },
+    "result": {
+      "id": "minecraft:silence_armor_trim_smithing_template",
+      "count": 1
+    },
+    "show_notification": false
+  }
+  

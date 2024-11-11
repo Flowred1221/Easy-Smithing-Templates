@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " #B",
+      " C#"
+    ],
+    "key": {
+      "#": "minecraft:mossy_cobblestone",
+      "B": "minecraft:light_blue_dye",
+      "C": "minecraft:cobblestone"
+    },
+    "result": {
+      "id": "minecraft:wild_armor_trim_smithing_template",
+      "count": 1
+    },
+    "show_notification": false
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " #B",
+      " C#"
+    ],
+    "key": {
+      "#": "minecraft:andesite",
+      "B": "minecraft:light_blue_dye",
+      "C": "minecraft:lapis_lazuli"
+    },
+    "result": {
+      "id": "minecraft:tide_armor_trim_smithing_template",
+      "count": 1
+    },
+    "show_notification": false
+  }
+  

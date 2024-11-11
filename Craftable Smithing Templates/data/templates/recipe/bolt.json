@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      " #B",
+      " ##"
+    ],
+    "key": {
+      "#": "minecraft:copper_block",
+      "B": "minecraft:light_blue_dye"
+    },
+    "result": {
+      "id": "minecraft:bolt_armor_trim_smithing_template",
+      "count": 1
+    },
+    "show_notification": false
+  }
+  
