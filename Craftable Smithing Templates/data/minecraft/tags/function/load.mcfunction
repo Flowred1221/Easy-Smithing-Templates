@@ -1,2 +1,2 @@
-say reloaded
+say Easy Smithing Templates Loaded!
 
